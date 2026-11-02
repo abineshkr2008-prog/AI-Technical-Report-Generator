@@ -1,0 +1,13 @@
+# Verification Checklist
+- [ ] Circuit diagram matches the physical build/simulation.
+- [ ] Every component value and rating checked against its datasheet.
+- [ ] Pin numbers and polarity checked against datasheets and schematic.
+- [ ] Supply voltage checked against actual measurement / supply setting.
+- [ ] Every result traced to a dated raw observation.
+- [ ] Simulated and physical results clearly distinguished.
+- [ ] No missing readings were invented or interpolated without disclosure.
+- [ ] Every external factual claim has a reliable citation.
+- [ ] Every reference opens and supports the cited claim.
+- [ ] Image/code licenses and permissions checked.
+- [ ] AI assistance disclosed as required by college policy.
+- [ ] Another student/instructor reviewed the final draft.
